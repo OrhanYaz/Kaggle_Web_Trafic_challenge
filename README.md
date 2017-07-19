@@ -24,7 +24,8 @@ Kaggle is excited to partner with research groups to push forward the frontier o
 ## Results
 
 model | Public LB | Date | Script
---- | --- | --- | ---
+Median | 45.7 | 16/07/2017 | ---
+Median | 45.1 | 18/07/2017 | ---
 
 
 ## Private Leader Board
