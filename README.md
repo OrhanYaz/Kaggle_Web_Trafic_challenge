@@ -25,7 +25,7 @@ Kaggle is excited to partner with research groups to push forward the frontier o
 
 model | Public LB | Date | Script
 Median | 45.7 | 16/07/2017 | https://github.com/OrhanYaz/Kaggle_Web_Trafic_challenge/blob/master/Script/Script_1_45.7.py
-Median | 45.1 | 18/07/2017 | ---
+Median | 45.1 | 18/07/2017 | https://github.com/OrhanYaz/Kaggle_Web_Trafic_challenge/blob/master/Script/Script_2_45.1.py
 
 
 ## Private Leader Board
